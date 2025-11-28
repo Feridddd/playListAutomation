@@ -1,0 +1,16 @@
+# Playwright
+node_modules/
+/test-results/
+/playwright-report/
+/blob-report/
+/playwright/.cache/
+/playwright/.auth/
+
+playwright/.local-browsers
+npm-debug.log*
+.env
+.idea/
+.vscode/
+*.iml
+.DS_Store
+Thumbs.db
