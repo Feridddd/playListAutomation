@@ -7,7 +7,7 @@
 1.  **Clone the repository**
 
 ```bash
-git clone <your-repo-url>
+git clone "https://github.com/Feridddd/playListAutomation.git"
 cd playListAutomation
 ```
 
